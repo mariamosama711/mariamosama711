@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Mariam Osama 👋
 
-<!--
-**mariamosama711/mariamosama711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA Engineer | ISTQB Certified Tester (CTFL)
 
-Here are some ideas to get you started:
+I am a QA Engineer passionate about understanding how
+software works, exploring business logic, identifying risks,
+and improving product quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rather than focusing only on finding defects, I believe
+effective testing starts with asking the right questions
+and understanding the expected behavior.
+
+## 🧪 Testing Skills
+
+- Manual Testing: Functional, Regression, Integration,
+  Smoke, Sanity, System, UAT, Negative Testing
+- API Testing: Postman, REST APIs
+- Automation: Selenium WebDriver, Java, TestNG, POM
+- Database Testing: SQL
+- Test Design: BVA, Equivalence Partitioning
+- Tools: Jira, Azure DevOps
+
+## 🚀 Featured Projects
+
+My projects will showcase different aspects of my QA approach,
+from requirements analysis and test design to API validation
+and automation.
+
+## 📜 Certification
+
+- ISTQB Certified Tester – Foundation Level (CTFL)
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/mariamosama711
